@@ -224,7 +224,7 @@ fun main() {
 **Perbaikan:**
 ```kotlin
 fun main() {
-    val nama = readLine() ?:
+    val nama = readLine()
     val umur = readLine()?.toIntOrNull() ?: 0
     println("Nama saya: $nama, umur: $umur tahun")
 }
