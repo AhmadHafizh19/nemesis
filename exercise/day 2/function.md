@@ -8,6 +8,12 @@ Berikut adalah **5 challenge Kotlin dengan storytelling** dari kategori **Fungsi
 
 ---
 
+# 🧮 Kategori: Fungsi (Functions)
+
+**Total Soal: 5** | **Level: Pemula–Menengah**
+
+---
+
 ### 🧩 Challenge 1 – **"Hitung Luas Persegi"**
 
 **📖 Cerita**:
